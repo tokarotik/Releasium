@@ -5,5 +5,5 @@ https://github.com/tokarotik/Releasium/archive/refs/tags/0.0.1.zip
 
 # first line = version game
 # second line = version updater
-# thirty line = game.exe
-# forty line = updater.exe
+# third line = game.exe
+# fourth line = updater.exe
