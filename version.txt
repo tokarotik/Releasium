@@ -1,1 +1,7 @@
 0.0.1
+https://github.com/tokarotik/Releasium/archive/refs/tags/0.0.1.zip
+https://github.com/tokarotik/Releasium/archive/refs/tags/0.0.1.zip
+
+# first line = version
+# second line = game.exe
+# thirty line = updater.exe
